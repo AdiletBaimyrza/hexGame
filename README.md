@@ -4,4 +4,4 @@ A **two-player board game** in which players must connect opposite sides of a ga
 > A player wins when they successfully connect their sides together through a chain of adjacent same-color hexes. Draws are impossible due to the topology of the game board.
 
 ### Game Play
-![](/gameplay.gif/)
+<img src="/gameplay.gif" width="250" height="250"/>
